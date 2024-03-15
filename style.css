@@ -10,3 +10,8 @@
 {
   width: 18%;  
 }
+
+.cabecalho-lista-item
+{
+  display: inline-block;
+}
