@@ -1,9 +1,16 @@
+*
+{
+  margin: 0;
+  padding: 0
+}
+
 .cabecalho
 {
     background-color: rgb(224, 23, 23);
     color: white;
     display: flex;
     justify-content: space-around;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem
