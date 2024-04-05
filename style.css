@@ -8,9 +8,9 @@
 {
     background-color: rgb(224, 23, 23);
     color: white;
-    display:inline;
+    display:flex;
     justify-content: space-around;
-    padding: 3px 0;
+    padding: 140px 0;
 }
 
 .cabecalho-imagem
